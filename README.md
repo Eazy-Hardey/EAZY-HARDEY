@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 - **DevOps:** AWS, Docker, CI/CD
 - **Version Control:** Git, GitHub
 - **Others:** RESTful APIs, GraphQL, Test-Driven Development (TDD)
-
+[![My Skills](https://skillicons.dev/icons?i=html,heroku,discord,figma,js,firebase,laravel,linkedin,git,github,aws,bootstrap,c,css,aws,azure,react,mysql,instagram,vue,bash,gmail,flutter&perline=3)](https://skillicons.dev)
 ## 🚀 Projects
 
 ### [MyBaseCamp](https://github.com/yourusername/mybasecamp)
