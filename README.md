@@ -3,7 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 A Full-stack Software Developer
 -------------------------------
-![IMG_20230820_114257_685-02](https://github.com/user-attachments/assets/08ec86b9-5577-4b6e-b477-598b21b63b1d)
+![1](https://github.com/user-attachments/assets/dc6f7a7b-5b6b-4706-ab7f-105348efa662)
+
 
 Welcome to my GitHub profile! I'm a passionate software developer with experience in a wide range of technologies and a keen interest in building impactful projects. I enjoy solving complex problems, learning new skills, and contributing to open-source projects.
 
