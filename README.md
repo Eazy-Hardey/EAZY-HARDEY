@@ -83,4 +83,5 @@ A clone of Instagram, developed using ReactJS and AWS Amplify for backend servic
 ## ⚡ Fun Fact
 
 When I’m not coding, I’m probably playing video games, exploring new tech gadgets, or enjoying a good book!
+![2](https://github.com/user-attachments/assets/34b6986e-b15d-4ea2-8267-b5973ccd263a)
 
