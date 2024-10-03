@@ -46,6 +46,7 @@ src="https://img.shields.io/twitter/follow/@adexlonso?logo=twitter&style=for-the
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 ## 🚀 Projects
+### You can navigate to the repository for the folder for each project
 
 ### [MyBaseCamp](https://github.com/yourusername/mybasecamp)
 A project management tool mimicking Basecamp’s features. It includes user registration, session management, role permissions, project management, attachment management, thread management, and message management. Hosted in the cloud with a focus on clean architecture and responsive design.
