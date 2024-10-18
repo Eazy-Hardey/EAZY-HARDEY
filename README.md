@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 A Full-stack Software Developer
 -------------------------------
-https://c4cs.github.io/static/f17/hw/c4cs-wk2-homework.pdf
 ![1](https://github.com/user-attachments/assets/dc6f7a7b-5b6b-4706-ab7f-105348efa662)
 
 
